@@ -2,9 +2,9 @@ package ditto.spawn;
 
 import ditto.spawn.Utils.ChatUtil;
 import ditto.spawn.Utils.DataUtil;
-import ditto.spawn.commands.deleteCommand;
-import ditto.spawn.commands.setSpawn;
-import ditto.spawn.commands.spawnCommand;
+import ditto.spawn.Commands.deleteCommand;
+import ditto.spawn.Commands.setSpawn;
+import ditto.spawn.Commands.spawnCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Main extends JavaPlugin {
