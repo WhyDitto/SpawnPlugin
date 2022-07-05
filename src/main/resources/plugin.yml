@@ -7,6 +7,9 @@ commands:
   spawn:
     description: Allows you to teleport to spawn
     usage: /<command>
-  setSpawn:
+  setspawn:
     description: Allows you to set your spawn
+    usage: /<command>
+  deletespawn:
+    description: Deletes your spawn
     usage: /<command>
