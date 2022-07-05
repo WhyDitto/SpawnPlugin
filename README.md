@@ -1,0 +1,2 @@
+# SpawnPlugin
+Simple spawn plugin
