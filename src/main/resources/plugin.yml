@@ -1,0 +1,12 @@
+name: SpawnPlugin
+version: '${project.version}'
+main: ditto.spawn.Main
+authors: [ WhyDitto ]
+description: A setspawn plugin
+commands:
+  spawn:
+    description: Allows you to teleport to spawn
+    usage: /<command>
+  setSpawn:
+    description: Allows you to set your spawn
+    usage: /<command>
