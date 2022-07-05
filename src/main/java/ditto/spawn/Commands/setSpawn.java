@@ -1,4 +1,4 @@
-package ditto.spawn.commands;
+package ditto.spawn.Commands;
 
 import ditto.spawn.Utils.ChatUtil;
 import ditto.spawn.Utils.DataUtil;
